@@ -25,7 +25,7 @@ body {
 }
 
 .genrted-quote {
-    font-size: 35px;
+    font-size: 40px;
     font-style: oblique;
     margin: 70px 0;
     color: transparent;
@@ -40,17 +40,20 @@ button {
 
 
 .genrate-quotebtn {
-    font-size: 20px;
+    font-size: 30px;
     padding: 7px 16px;
     margin: 0px 12px;
     color: white;
     background-color: #272727;
+    cursor: pointer;
 }
 
 .delete-quotebtn {
-    font-size: 20px;
+    font-size: 30px;
     padding: 7px 16px;
     margin: 0px 12px;
     color: white;
     background-color: #474747;
+    cursor: pointer;
+
 }
