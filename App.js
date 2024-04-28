@@ -1,1 +1,2 @@
-console.log('App.js')
+let Quotediv = document.querySelector(".quote-container")
+console.log(Quotediv)

@@ -27,9 +27,16 @@ body {
 .genrted-quote {
     font-size: 40px;
     font-style: oblique;
-    margin: 70px 0;
+    margin: 70px 0px 60px 0px;
     color: transparent;
     color: white;
+}
+
+.quote-container {
+    font-size: 40px;
+    color: white;
+    margin: 0px 0px 60px 0px;
+
 }
 
 button {
@@ -57,3 +64,4 @@ button {
     cursor: pointer;
 
 }
+
